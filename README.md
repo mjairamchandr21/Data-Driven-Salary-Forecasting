@@ -95,3 +95,6 @@ Improve input validation
 
 Explore deep learning for better predictions
 
+App Link
+https://datadrivensalaryforecasting.streamlit.app/ 
+
